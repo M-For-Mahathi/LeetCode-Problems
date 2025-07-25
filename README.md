@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 ## Divide and Conquer
 |  |
@@ -25,4 +26,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
