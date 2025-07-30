@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
@@ -81,5 +83,10 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
