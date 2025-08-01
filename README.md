@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Divide and Conquer
 |  |
@@ -86,6 +87,7 @@
 | [0048-rotate-image](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Number Theory
 |  |
