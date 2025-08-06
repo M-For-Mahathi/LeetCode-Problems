@@ -30,6 +30,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
@@ -66,6 +67,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
