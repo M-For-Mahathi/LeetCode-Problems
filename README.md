@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0812-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
