@@ -39,6 +39,7 @@
 | [0136-single-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Binary Search
@@ -92,6 +95,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Memoization
 |  |
@@ -141,4 +145,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0812-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
