@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 ## String
@@ -82,6 +83,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
