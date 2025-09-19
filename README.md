@@ -52,6 +52,7 @@
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
@@ -123,6 +124,7 @@
 | [0048-rotate-image](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
