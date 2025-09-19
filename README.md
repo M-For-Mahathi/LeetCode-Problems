@@ -28,6 +28,7 @@
 | [0054-spiral-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Memoization
 |  |
 | ------- |
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
