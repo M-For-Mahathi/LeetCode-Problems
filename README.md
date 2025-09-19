@@ -23,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
+| [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3398-make-a-square-with-the-same-color) |
+| [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
+| [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3398-make-a-square-with-the-same-color) |
+| [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,4 +169,8 @@
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
