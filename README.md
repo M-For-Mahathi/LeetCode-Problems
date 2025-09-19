@@ -12,6 +12,7 @@
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 ## String
 |  |
@@ -29,6 +30,7 @@
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -160,4 +164,5 @@
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
