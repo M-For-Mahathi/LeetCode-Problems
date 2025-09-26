@@ -13,6 +13,7 @@
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1610-xor-operation-in-an-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2383-add-two-integers) |
@@ -113,6 +114,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1610-xor-operation-in-an-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
