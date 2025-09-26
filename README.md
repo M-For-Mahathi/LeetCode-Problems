@@ -57,6 +57,7 @@
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
@@ -87,10 +88,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 ## Hash Table
 |  |
@@ -106,6 +109,7 @@
 | [0162-find-peak-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 | [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Memoization
 |  |
