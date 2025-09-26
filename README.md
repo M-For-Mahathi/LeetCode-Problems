@@ -108,6 +108,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
