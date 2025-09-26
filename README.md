@@ -13,6 +13,7 @@
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [1610-xor-operation-in-an-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
@@ -108,6 +109,7 @@
 | [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
