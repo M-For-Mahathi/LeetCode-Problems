@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -101,6 +104,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Sorting
