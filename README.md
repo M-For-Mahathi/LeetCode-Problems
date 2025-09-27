@@ -14,6 +14,7 @@
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [1610-xor-operation-in-an-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2383-add-two-integers) |
@@ -59,6 +60,7 @@
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0830-largest-triangle-area](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
