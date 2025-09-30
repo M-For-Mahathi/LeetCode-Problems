@@ -31,6 +31,7 @@
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
+| [1904-second-largest-digit-in-a-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@
 | [0219-contains-duplicate-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [1904-second-largest-digit-in-a-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
