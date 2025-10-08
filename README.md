@@ -72,6 +72,7 @@
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
@@ -106,6 +107,7 @@
 | [0344-reverse-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0792-binary-search) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Memoization
 |  |
 | ------- |
