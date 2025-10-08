@@ -63,6 +63,7 @@
 | [0485-max-consecutive-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -121,6 +122,7 @@
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
+| [0792-binary-search](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
