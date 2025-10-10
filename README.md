@@ -78,6 +78,7 @@
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3398-make-a-square-with-the-same-color](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
@@ -222,5 +223,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
