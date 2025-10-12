@@ -20,6 +20,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [3398-make-a-square-with-the-same-color](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0389-find-the-difference](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1610-xor-operation-in-an-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -239,4 +243,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
