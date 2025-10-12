@@ -27,6 +27,7 @@
 | [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
@@ -183,6 +184,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -225,4 +227,16 @@
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
