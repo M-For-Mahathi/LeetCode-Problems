@@ -112,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -259,6 +260,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
