@@ -113,6 +113,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -252,4 +253,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
