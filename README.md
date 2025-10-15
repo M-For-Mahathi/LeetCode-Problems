@@ -164,6 +164,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -257,6 +258,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
