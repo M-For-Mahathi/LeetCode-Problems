@@ -45,6 +45,7 @@
 | [0682-baseball-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
@@ -257,4 +258,5 @@
 |  |
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
