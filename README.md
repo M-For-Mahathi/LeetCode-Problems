@@ -195,11 +195,13 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,10 +246,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
