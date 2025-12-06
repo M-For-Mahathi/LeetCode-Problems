@@ -77,6 +77,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
@@ -176,6 +177,7 @@
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
@@ -240,6 +242,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
