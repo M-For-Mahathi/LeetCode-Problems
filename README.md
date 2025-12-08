@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -268,6 +270,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
