@@ -26,6 +26,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
