@@ -206,6 +206,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -214,6 +215,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
@@ -264,6 +266,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -272,6 +275,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Combinatorics
 |  |
