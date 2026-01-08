@@ -204,6 +204,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -267,6 +268,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -279,6 +281,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -304,4 +307,8 @@
 | [0086-partition-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
