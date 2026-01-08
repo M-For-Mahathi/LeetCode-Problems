@@ -210,6 +210,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -272,6 +273,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -283,6 +285,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Combinatorics
