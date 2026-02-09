@@ -14,6 +14,7 @@
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -126,6 +127,7 @@
 | [0344-reverse-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
@@ -145,6 +147,7 @@
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
