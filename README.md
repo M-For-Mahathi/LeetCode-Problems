@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -135,6 +136,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
