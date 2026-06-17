@@ -61,6 +61,7 @@
 | [0048-rotate-image](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -278,6 +280,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
