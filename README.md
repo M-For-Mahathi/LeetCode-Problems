@@ -191,6 +191,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -322,6 +323,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0086-partition-list) |
+| [0206-reverse-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Search Tree
