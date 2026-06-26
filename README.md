@@ -39,6 +39,7 @@
 | [0344-reverse-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1720-crawler-log-folder](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1720-crawler-log-folder) |
 | [1904-second-largest-digit-in-a-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
@@ -137,6 +138,7 @@
 | [0189-rotate-array](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1972-rotating-the-box](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1972-rotating-the-box) |
@@ -151,6 +153,7 @@
 | [0219-contains-duplicate-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Binary Search
@@ -251,6 +254,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/M-For-Mahathi/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
